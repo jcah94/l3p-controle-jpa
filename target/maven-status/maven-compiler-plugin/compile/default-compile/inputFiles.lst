@@ -1,0 +1,15 @@
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/model/CinemaEntity.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/service/ProductDAOviaJPA.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/DemoJpaApplication.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/model/SalleEntity.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/model/FilmEntity.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/model/SeanceEntity.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/model/AbonneEntity.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/service/ProductDAOviaJdbcTemplate.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/controller/FilmController.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/repository/FilmRepository.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/model/ReservationEntity.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/service/ProductDAOviaJDBC.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/service/BookingService.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/configuration/DatabaseConfiguration.java
+/home/anna/Documents/tuto-springdata/l3p-controle-jpa/tutorial-spring-database/src/main/java/fr/ekinci/demojpa/service/FilmDAOviaSpringData.java
